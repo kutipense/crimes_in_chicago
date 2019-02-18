@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>chicago_icon.png</file>
+        <file>chicago_map.jpeg</file>
+    </qresource>
+</RCC>
